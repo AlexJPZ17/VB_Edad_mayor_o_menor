@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Edad mayor o menor\Edad mayor o menor\bin\Debug\Edad mayor o menor.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Edad mayor o menor\Edad mayor o menor\bin\Debug\Edad mayor o menor.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Edad mayor o menor\Edad mayor o menor\bin\Debug\Edad mayor o menor.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Edad mayor o menor\Edad mayor o menor\bin\Debug\Edad mayor o menor.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Edad mayor o menor\Edad mayor o menor\obj\Debug\Edad_mayor_o_menor.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Edad mayor o menor\Edad mayor o menor\obj\Debug\Edad mayor o menor.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Edad mayor o menor\Edad mayor o menor\obj\Debug\Edad mayor o menor.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Edad mayor o menor\Edad mayor o menor\obj\Debug\Edad mayor o menor.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Edad mayor o menor\Edad mayor o menor\obj\Debug\Edad mayor o menor.pdb
